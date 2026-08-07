@@ -1,11 +1,9 @@
-package B;
-import A.*;
+public class pridemoD {
+    private int x = 20;
+    int z = 22;
 
-class PriDemoD extends privatedemop{
-    private int y = 26;
-    public static void main(String...args){
-        PriDemoD pdd = new PriDemoD();
-        System.out.println(pdd.y);
-        System.out.println(pdd.z);
+    private void display() {
+        pridemoD pdp = new pridemoD();
+        System.out.println(pdp.x);
     }
 }
