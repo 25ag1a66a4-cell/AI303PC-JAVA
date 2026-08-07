@@ -1,6 +1,3 @@
-Package B;
-import A*;
-
 class pridemoc extends pridemop{
     private int y=25;
     public static void main(String...args){

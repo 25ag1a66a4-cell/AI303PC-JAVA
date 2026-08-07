@@ -7,7 +7,7 @@ class privatedemop {
 }
 class pridemoc extends privatedemop {
 
-    public void Access() {
+    public void textAccess() {
     
     }
 }
